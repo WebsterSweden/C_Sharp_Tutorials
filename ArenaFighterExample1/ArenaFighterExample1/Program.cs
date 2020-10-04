@@ -4,14 +4,24 @@ namespace ArenaFighterExample1
 {
     class Program
     {
-        Random randomObjectTwo = new Random();
+        public static Random randomNumberProgramGenerator = new Random();
+        public static int randomNumberProgramOne = randomNumberProgramGenerator.Next(1, 11);
 
-        static void Main(string[] args)
+        static void Main()
         {
-            // Create an instance of the Random Object.
-            Random randomObjectOne = new Random();
-            //Random randomObjectOne = new Random(DateTime.Now.Millisecond);
-            Console.WriteLine(randomObjectOne);
+            Random randomNumberMainGenerator = new Random();
+            int randomNumberMain = randomNumberMainGenerator.Next(1, 11);
+            //Console.WriteLine(randomNumberMain);
+
+            int randomNumberProgramTwo = randomNumberProgramGenerator.Next(1, 11);
+
+            //Console.WriteLine(randomNumberProgramOne);
+            //Console.WriteLine(randomNumberProgramTwo);
+
+            //Console.WriteLine(RandomNumber.randomNumberRandomNumberOne);
+            //Console.WriteLine(RandomNumber.RandomNumberFunctionOne());
+
+            //Console.WriteLine(RandomNumber.RandomNumberFunctionTwo());
         }
     }
 }
