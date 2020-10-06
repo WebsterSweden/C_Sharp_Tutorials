@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\bin\Debug\netcoreapp3.1\MikeDane2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane2\MikeDane2\obj\Debug\netcoreapp3.1\MikeDane2.genruntimeconfig.cache
