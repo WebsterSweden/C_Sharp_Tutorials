@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\bin\Debug\netcoreapp3.1\MikeDane4.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\MikeDane4\MikeDane4\obj\Debug\netcoreapp3.1\MikeDane4.genruntimeconfig.cache
