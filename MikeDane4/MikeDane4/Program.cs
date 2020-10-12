@@ -8,18 +8,34 @@ namespace MikeDane4
         {
             string secretWord = "abc";
             string guessedWord = "";
-            int numberOfGuesses = 0;
+            int guessCount = 0;
+            int guessLimit = 3;
+            bool outOffGuesses = false;
 
-            while (secretWord != guessedWord)
+            while (secretWord != guessedWord && !outOffGuesses)
             {
-                Console.Write("Guess a word: ");
-                guessedWord = Console.ReadLine();
-                numberOfGuesses++;
+                if (guessCount < guessLimit)
+                {
+                    Console.Write("Guess a word: ");
+                    guessedWord = Console.ReadLine();
+                    guessCount++;
+                }
+                else
+                {
+                    outOffGuesses = true;
+                }
             }
 
-            Console.WriteLine("Congratulations! Your guess is: {0}", guessedWord);
-            Console.WriteLine("The secret word is: {0}", secretWord);
-            Console.WriteLine("The number of guesses: {0}", numberOfGuesses);
+            if (outOffGuesses)
+            {
+                Console.WriteLine("You Lose!");
+            }
+            else
+            {
+                Console.WriteLine("Congratulations! Your guess is: {0}", guessedWord);
+                Console.WriteLine("The secret word is: {0}", secretWord);
+                Console.WriteLine("The number of guesses: {0}", guessCount);
+            }
         }
     }
 }
