@@ -38,24 +38,65 @@ namespace MikeDane4
             //    Console.WriteLine("The number of guesses: {0}", guessCount);
             //}
 
-            int i = 1;
-            while (i <= 6)
+            //int i = 1;
+            //while (i <= 6)
+            //{
+            //    Console.WriteLine(i);
+            //    i++;
+            //}
+
+            //for (i = 1; i <= 6; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+            //int[] numberArrayOne = { 1, 2, 3, 4, 5, 6 };
+
+            //// base number power number.
+            //for (i = 0; i < numberArrayOne.Length; i++)
+            //{
+            //    //Console.WriteLine("numberArrayOne[{0}]: ", i + " " + numberArrayOne[i]);
+            //    Console.WriteLine("numberArrayOne[" + i + "]: " + numberArrayOne[i]);
+            //}
+
+            //int[,] numberGrid = {
+            //{1, 2},
+            //{3, 4},
+            //{5, 6}
+            //};
+
+            //Console.WriteLine(numberGrid[0, 0]);
+            //Console.WriteLine(numberGrid[1, 1]);
+            //Console.WriteLine(numberGrid[2, 1]);
+
+            // Comment one row.
+
+            /* Comment
+             * multiple
+             * row.
+             */
+
+            //// Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
+            //Console.WriteLine("Divide by zero");
+            //Console.Write("Enter number 1: ");
+            //int one = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Enter number 0: ");
+            //int zero = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(one / zero);
+
+            try
             {
-                Console.WriteLine(i);
-                i++;
+                // Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
+                Console.WriteLine("Divide by zero");
+                Console.Write("Enter number 1: ");
+                int one = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter number 0: ");
+                int zero = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(one / zero);
             }
-
-            for (i = 1; i <= 6; i++)
+            catch (Exception exceptionMessage)
             {
-                Console.WriteLine(i);
-            }
-
-            int[] numberArrayOne = { 1, 2, 3, 4, 5, 6 };
-
-            for (i = 0; i < numberArrayOne.Length; i++)
-            {
-                //Console.WriteLine("numberArrayOne[{0}]: ", i + " " + numberArrayOne[i]);
-                Console.WriteLine("numberArrayOne[" + i + "]: " + numberArrayOne[i]);
+                Console.WriteLine(exceptionMessage.Message);
             }
         }
     }
