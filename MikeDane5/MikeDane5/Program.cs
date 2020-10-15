@@ -26,6 +26,15 @@ namespace MikeDane5
             Student student2 = new Student("Pam", "Art", 3.6);
             Console.WriteLine(student1.name + " " + student1.major + " " + student1.gpa + " " + student1.GpaHonors());
             Console.WriteLine(student2.name + " " + student2.major + " " + student2.gpa + " " + student2.GpaHonors());
+
+            Console.WriteLine("----------");
+
+            // Rating G, PG, PG-13, R, NR.
+            Movie avengers = new Movie("The Avengers", "Joss Whedon", "PG-13");
+            Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
+            Movie noname = new Movie("NoName", "Anonymous", "Not Rated");
+            Console.WriteLine(noname.Rating);
+            // TODO: How to loop and output all Class fields?
         }
     }
 }
