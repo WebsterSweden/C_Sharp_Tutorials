@@ -21,6 +21,11 @@ namespace MikeDane5
             Console.WriteLine(book2.title + " " + book2.author + " " + book2.pages);
 
             Console.WriteLine("----------");
+
+            Student student1 = new Student("Jim", "Business", 2.8);
+            Student student2 = new Student("Pam", "Art", 3.6);
+            Console.WriteLine(student1.name + " " + student1.major + " " + student1.gpa + " " + student1.GpaHonors());
+            Console.WriteLine(student2.name + " " + student2.major + " " + student2.gpa + " " + student2.GpaHonors());
         }
     }
 }
