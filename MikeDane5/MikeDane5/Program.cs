@@ -35,6 +35,16 @@ namespace MikeDane5
             Movie noname = new Movie("NoName", "Anonymous", "Not Rated");
             Console.WriteLine(noname.Rating);
             // TODO: How to loop and output all Class fields?
+
+            Song holiday = new Song("Holiday", "Green Day", 200);
+            Console.WriteLine(Song.songCount);
+            Console.WriteLine(holiday.getSongCount());
+            Song kashmir = new Song("Kashmir", "Led Zeppelin", 150);
+            Console.WriteLine(Song.songCount);
+            Console.WriteLine(kashmir.getSongCount());
+
+            Console.WriteLine(holiday.title);
+            Console.WriteLine(kashmir.title);
         }
     }
 }
