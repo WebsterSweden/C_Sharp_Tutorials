@@ -24,8 +24,8 @@ namespace ArenaFighterExample2
                     if (Console.ReadKey().Key == ConsoleKey.Y)
                     {
                         player.IsRetired = true;
-                        Console.Clear();
                     }
+                    Console.Clear();
                 }
             }
             if (player.IsRetired)
@@ -40,4 +40,3 @@ namespace ArenaFighterExample2
         }
     }
 }
-
