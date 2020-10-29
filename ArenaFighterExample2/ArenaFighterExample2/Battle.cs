@@ -23,13 +23,19 @@ namespace ArenaFighterExample2
                 {
                     opponent.Health -= player.Strength;
                     if (opponent.Health <= 0)
+                    {
                         opponent.IsAlive = false;
+                    }
                 }
                 else if (result == Result.OpponentWin)
                 {
-                    player.Health -= opponent.Strength;
+                    {
+                        player.Health -= opponent.Strength;
+                    }
                     if (player.Health <= 0)
+                    {
                         player.IsAlive = false;
+                    }
                 }
             }
             if (!player.IsAlive)
