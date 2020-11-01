@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\bin\Debug\netcoreapp3.1\ProgressIndicator1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\ProgressIndicator1\ProgressIndicator1\obj\Debug\netcoreapp3.1\ProgressIndicator1.genruntimeconfig.cache
