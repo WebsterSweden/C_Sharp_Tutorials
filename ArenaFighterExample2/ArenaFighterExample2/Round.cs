@@ -7,12 +7,14 @@ namespace ArenaFighterExample2
     class Round
     {
         string message;
+
         public Enum BattleRound(Character player, Character opponent)
         {
             int playerRoll = Program.rnd.Next(1, 7);
             int opponentRoll = Program.rnd.Next(1, 7);
             int playerPower = player.Strength + playerRoll;
             int opponentPower = opponent.Strength + opponentRoll;
+
             if (playerPower > opponentPower)
             {
                 opponent.Health -= player.Strength;
