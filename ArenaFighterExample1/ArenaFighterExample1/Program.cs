@@ -11,17 +11,17 @@ namespace ArenaFighterExample1
         {
             Random randomNumberMainGenerator = new Random();
             int randomNumberMain = randomNumberMainGenerator.Next(1, 11);
-            //Console.WriteLine(randomNumberMain);
+            Console.WriteLine(randomNumberMain);
 
             int randomNumberProgramTwo = randomNumberProgramGenerator.Next(1, 11);
 
-            //Console.WriteLine(randomNumberProgramOne);
-            //Console.WriteLine(randomNumberProgramTwo);
+            Console.WriteLine(randomNumberProgramOne);
+            Console.WriteLine(randomNumberProgramTwo);
 
-            //Console.WriteLine(RandomNumber.randomNumberRandomNumberOne);
-            //Console.WriteLine(RandomNumber.RandomNumberFunctionOne());
+            Console.WriteLine(Randomization.randomNumberRandomNumberOne);
+            Console.WriteLine(Randomization.RandomNumberFunctionOne());
 
-            //Console.WriteLine(RandomNumber.RandomNumberFunctionTwo());
+            Console.WriteLine(Randomization.RandomNumberFunctionTwo());
         }
     }
 }
