@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\bin\Debug\netcoreapp3.1\BankAccount1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\BankAccount1\BankAccount1\obj\Debug\netcoreapp3.1\BankAccount1.genruntimeconfig.cache
