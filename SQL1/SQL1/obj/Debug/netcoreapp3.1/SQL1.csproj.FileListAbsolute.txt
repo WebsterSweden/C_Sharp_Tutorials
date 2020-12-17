@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\bin\Debug\netcoreapp3.1\SQL1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\C_Sharp_Tutorials\SQL1\SQL1\obj\Debug\netcoreapp3.1\SQL1.genruntimeconfig.cache
