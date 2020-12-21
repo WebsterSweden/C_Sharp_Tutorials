@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6eLSz6BFBMMQBaIBPshJuBazkZdKzC5u6Es7CWWKzqgJlXkL8JvI70xWpymhPZv99qvra4bEvC0l92K+NFneOQ==",
+  "dgSpecHash": "2cBriSwvim7JbVoNj3LLzsSzyBQ/uDPH0Ar+A4n+Fy9qYOd2PWRA71FiXbWn4AhnrgM3YI0o+NezvZyYjMt86w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Windows-7\\Documents\\Google_Drive_Transfer\\C_Sharp_Tutorials\\SQL1\\SQL1\\SQL1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Windows-7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Windows-7\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
